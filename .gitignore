@@ -1,1 +1,35 @@
+# Large data files
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temp / system files
 .DS_Store
+.virtual_documents/
+
+# Local project folders you do not want in repo
+anaconda_projects/
+practice/Maven Toys Data/
+
+# Python
+__pycache__/# Large data files
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temp / system files
+.DS_Store
+.virtual_documents/
+
+# Local project folders you do not want in repo
+anaconda_projects/
+practice/Maven Toys Data/
+
+# Python
+__pycache__/
